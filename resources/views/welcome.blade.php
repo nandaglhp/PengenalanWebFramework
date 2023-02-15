@@ -17,7 +17,7 @@
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
-            <div class="ml-4 text-lg leading-7 font-semibold"><h1 class="text-gray-900 dark:text-white"> Ananda Galih Pratiwi</h1></div>
+            <div class="ml-4 text-lg leading-7 font-semibold"><h1 class="text-gray-900 dark:text-white"> Ananda Galih Pratiwi TI - 2D</h1></div>
         </div>
     </body>
 </html>
